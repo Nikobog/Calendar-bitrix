@@ -1,9 +1,4 @@
 <?
-$dont_show_tcom_services   = true;
-$dont_show_adminpanel      = true;
-$dont_show_header          = true;
-$dont_show_footer          = true;
-$dont_show_toolbar         = true;
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php"); ?>
 
 <?php
